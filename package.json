@@ -1,5 +1,5 @@
 {
-  "name": "@HashemKhalifa/webpack-react-boilerplate",
+  "name": "EricDeleon",
   "version": "1.0.0",
   "description": "Boilerplate for react and webpack",
   "main": "index.js",
@@ -33,7 +33,7 @@
       "jsx"
     ]
   },
-  "repository": "https://github.com/HashemKhalifa/webpack-react-boilerplate",
+  "repository": "https://github.com/ericdleon/react-app",
   "author": "HashemKhalifa",
   "license": "ISC",
   "private": false,
@@ -42,6 +42,7 @@
     "npm": ">=3"
   },
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "lodash": "4.17.10",
     "prop-types": "15.6.1",
     "react": "16.4.1",
